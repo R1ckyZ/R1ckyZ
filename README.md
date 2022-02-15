@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AmTrain-Ricky/AmTrain-Ricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AmTrain-Ricky/)
 
-Here are some ideas to get you started:
+Welcome to my Github page, I am Ricky, from AmTrain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AmTrain-Ricky&show_icons=true&hide_border=true" />
+
+#### 🌱 Language I am currently working on: 
+- Java
+- PHP
+- Python
+- C++
+- Go
+- SQL
