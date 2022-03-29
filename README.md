@@ -13,3 +13,7 @@ Welcome to my Github page, I am Ricky, from AmTrain.
 - C++
 - Go
 - SQL
+
+#### 🔥 Recently I learn on:
+- Java
+- Python
