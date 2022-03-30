@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Github](img/-Github-000.svg)](https://github.com/AmTrain-Ricky/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AmTrain-Ricky/)
 
 Welcome to my Github page, I am Ricky, from AmTrain.
 
