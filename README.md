@@ -14,4 +14,4 @@ Welcome to my Github page, I am Ricky, from AmTrain.
 - Go
 - SQL
 
-<img style='width:360px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hktalent&layout=compact&theme=chartreuse-dark&langs_count=8">
+<img style='width:360px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hktalent&layout=compact&hide_border=true&langs_count=8">
